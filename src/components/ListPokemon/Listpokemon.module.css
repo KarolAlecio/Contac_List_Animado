@@ -1,0 +1,21 @@
+.container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    
+}
+
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    width: 100%;
+    gap: 50px;
+}
+h1 {
+    font-size: 3.2em;
+    line-height: 1.1;
+    color: #ffffff;
+  }
