@@ -1,4 +1,4 @@
-#PROLLECTO REALIZADO CON REACT.
+**PROLLECTO REALIZADO CON REACT.**
 
 
-Realizacion de proyecto con Api, de Pokemon, creando una lista de contactos
+Proyecto realizado con Api de Pokemon, creando una lista de contactos
